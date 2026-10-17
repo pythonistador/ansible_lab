@@ -1,0 +1,9 @@
+[hosts]
+192.168.1.47 worker0
+192.168.1.58 worker1
+192.168.1.45 jumpbox
+
+[workers]
+192.168.1.47 worker0
+192.168.1.58 worker1
+
